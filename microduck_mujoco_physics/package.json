@@ -1,0 +1,6 @@
+{
+  "name": "microduck-mujoco-physics", "version":"0.1.0", "private":true, "type":"module",
+  "scripts":{"assets":"python scripts/fetch_assets.py","dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview"},
+  "dependencies":{"@mujoco/mujoco":"^3.3.0","three":"^0.168.0"},
+  "devDependencies":{"vite":"^6.0.0"}
+}
